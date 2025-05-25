@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622099457618",
+    "project_id": "firepost-its",
+    "storage_bucket": "firepost-its.firebasestorage.app",
+    "firebase_url": "https://firepost-its-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622099457618:android:3440c86e3a59b20f51a18b",
+        "android_client_info": {
+          "package_name": "com.jainer.firepostits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LlMDl_w4S882K4oSN-jKAM2rmu7imSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
